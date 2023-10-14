@@ -26,3 +26,7 @@ This project demonstrates how to implement user authentication using Firebase wi
 
 This project uses Firebase for authentication services.
 
+## To Run the Project
+Open the project's index.html file in your web browser to access the authentication application.
+or
+Open the project file in text editor(vs code) and run the `index.html` file.
