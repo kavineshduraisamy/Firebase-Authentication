@@ -3,13 +3,7 @@ import { getAuth, signInWithEmailAndPassword, createUserWithEmailAndPassword, si
 
 const firebaseConfig = {
     // Your Firebase config here
-    apiKey: "AIzaSyDuMls2xHZqyjawEpo5_n7QK0lueoL-nbw",
-    authDomain: "courseo-7c282.firebaseapp.com",
-    databaseURL: "https://courseo-7c282-default-rtdb.firebaseio.com",
-    projectId: "courseo-7c282",
-    storageBucket: "courseo-7c282.appspot.com",
-    messagingSenderId: "57230841391",
-    appId: "1:57230841391:web:2ee6ac6bb130f6b9cc18da"
+    
 };
 
 const app = initializeApp(firebaseConfig);
