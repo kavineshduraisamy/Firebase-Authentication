@@ -19,8 +19,6 @@ This project demonstrates how to implement user authentication using Firebase wi
    - Create a Firebase project on the Firebase Console.
    - Configure Firebase in your project by replacing the Firebase configuration in the `script.js` file with your own Firebase project credentials.
 
-3. Deploy the project on your web server or a hosting platform of your choice.
-
 
 ## Dependencies
 
