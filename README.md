@@ -5,7 +5,7 @@ This project demonstrates how to implement user authentication using Firebase wi
 ## Features
 
 - User registration with email and password.
-- User login
+- User login.
 - Attractive and responsive web interface.
 - Secure authentication and account management using Firebase.
 
